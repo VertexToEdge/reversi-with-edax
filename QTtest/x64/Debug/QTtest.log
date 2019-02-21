@@ -1,3 +1,0 @@
-﻿  Game.cpp
-d:\onedrive\onedrive - cnu\bob 과제\이경문\othello qt\qttest\qttest\game.cpp(167): warning C4715: 'Game::getThisPlayerColor': not all control paths return a value
-  QTtest.vcxproj -> D:\onedrive\OneDrive - CNU\BOB 과제\이경문\othello qt\QTtest\x64\Debug\QTtest.exe
